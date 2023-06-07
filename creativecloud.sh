@@ -12,9 +12,9 @@
 PREFIX="$HOME/CreativeCloud"
 WINETRICKS="msxml3 atmlib corefonts fontsmooth=rgb gdiplus"
 WINETRICKS_DOWNLOAD="https://raw.githubusercontent.com/Winetricks/winetricks/master/src/winetricks"
-ADOBE_DOWNLOAD="http://ccmdl.adobe.com/AdobeProducts/KCCC/CCD/4_9/win32/ACCCx4_9_0_504.zip"
-GECKO_32_DOWNLOAD="https://dl.winehq.org/wine/wine-gecko/2.47.3/wine-gecko-2.47.3-x86.msi"
-GECKO_64_DOWNLOAD="https://dl.winehq.org/wine/wine-gecko/2.47.3/wine-gecko-2.47.3-x86_64.msi"
+ADOBE_DOWNLOAD="http://ccmdl.adobe.com/AdobeProducts/KCCC/CCD/5_1/win64/ACCCx5_1_0_407.zip"
+GECKO_32_DOWNLOAD="https://dl.winehq.org/wine/wine-gecko/2.47.4/wine-gecko-2.47.4-x86.msi"
+GECKO_64_DOWNLOAD="https://dl.winehq.org/wine/wine-gecko/2.47.4/wine-gecko-2.47.4-x86_64.msi"
 
 #TODO: Check Wine + winbind is installed
 
