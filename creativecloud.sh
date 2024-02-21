@@ -12,7 +12,7 @@
 PREFIX="$HOME/CreativeCloud"
 WINETRICKS="msxml3 atmlib corefonts fontsmooth=rgb gdiplus"
 WINETRICKS_DOWNLOAD="https://raw.githubusercontent.com/Winetricks/winetricks/master/src/winetricks"
-ADOBE_DOWNLOAD="http://ccmdl.adobe.com/AdobeProducts/KCCC/CCD/5_1/win64/ACCCx5_1_0_407.zip"
+ADOBE_DOWNLOAD="https://ccmdl.adobe.com/AdobeProducts/KCCC/CCD/6_1_0/win64/ACCCx6_1_0_587.zip"
 GECKO_32_DOWNLOAD="https://dl.winehq.org/wine/wine-gecko/2.47.4/wine-gecko-2.47.4-x86.msi"
 GECKO_64_DOWNLOAD="https://dl.winehq.org/wine/wine-gecko/2.47.4/wine-gecko-2.47.4-x86_64.msi"
 
